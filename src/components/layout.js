@@ -4,10 +4,16 @@ import { Link } from "gatsby"
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-  
-  let header = (<h6 className="main-heading">
-    <Link to="/">Jonathan Cai</Link>
-  </h6>);
+
+  let header = (
+    <div>
+      <h6 className="main-heading" style={{ float: "left" }}>
+        <Link to="/">Jonathan Cai</Link>
+      </h6>
+      <h6 className="main-heading" id="about" style={{ float: "right" }}>
+        <Link to="/about">About</Link>
+      </h6>
+    </div>);
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
