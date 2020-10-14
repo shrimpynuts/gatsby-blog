@@ -6,9 +6,9 @@ date: "2020-09-10"
 
 ![](https://d5wt70d4gnm1t.cloudfront.net/media/a-s/articles/2331-895951488637/dont-say-deleuze-how-to-write-a-good-artist-statement-900x450-c.jpg)
 
-I'm a college student. Kids my age should be on TikTok, Instagram, Facebook, Snapchat, Twitter or whatever the hell else is the new thing these days.
+I'm a college student. Kids my age should be on TikTok, Instagram, Facebook, Snapchat, Twitter or whatever the hell else.
 
-Instead, I'm going to commit myself to writing on (at least) a weekly basis.
+But I'm going to commit myself to writing on (at least) a weekly basis.
 
 Just in general, I want to write more English, and less code.
 
