@@ -27,11 +27,11 @@ const About = ({ location }) => {
             </div>
 
             <br/>
-            <br/>
 
             <h6 className="main-heading">
                 <Link to="/about/projects">Projects</Link> &nbsp;
-                <Link to="/about/work">Work</Link>
+                <Link to="/about/work">Work</Link> &nbsp;
+                <Link to="/about/read">Read</Link>
             </h6>
         </Layout>
     )
