@@ -1,20 +1,27 @@
 import React from "react"
+import { Link } from "gatsby"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import pic from "../assets/me.jpg"
+import Layout from "../../components/layout"
+import SEO from "../../components/seo"
+import pic from "../../assets/me.jpg"
 
-const AboutPage = ({ location }) => {
+const About = ({ location }) => {
 
     return (
         <Layout location={location} title={"About"}>
             <SEO title="About" />
 
-            <div style={{float: "left", display: "inline-block"}}>
-                <img src={pic} style={{ width: 220 }} />
+            <h6 className="main-heading">
+                <Link to="/about/projects">Projects</Link> &nbsp;
+                {/* <Link>Now (Coming)</Link> */}
+            </h6>
+            <br />
+
+            <div style={{ float: "left", display: "inline-block" }}>
+                <img src={pic} alt="Me" style={{ width: 220 }} />
             </div>
 
-            <div style={{float: "right", display: "inline-block"}}>
+            <div style={{ float: "right", display: "inline-block" }}>
                 <p>Hey, I'm Jonathan.</p>
                 <p>I'm going to be writing about anything that interests me. Not for any particular audience, moreso treating this like a journal.</p>
                 <p>I'm from California, I study computer science at Rice University down in Houston, graduating in Spring 2021.</p>
@@ -30,4 +37,4 @@ const AboutPage = ({ location }) => {
     )
 }
 
-export default AboutPage
+export default About
