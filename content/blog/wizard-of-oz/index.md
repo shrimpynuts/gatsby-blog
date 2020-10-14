@@ -4,6 +4,8 @@ date: "2020-10-05"
 description: L.F. Baum's Wizard of Oz has something to teach us about rapid prototyping.
 ---
 
+![](https://i.imgur.com/fjJQpgd.jpg)
+
 In L.F. Baum's Wizard of Oz, the Wizard fools everyone by creating a vision of himself to look powerful. He does this by using a set of controls while he hides behind a curtain concealing the reality.
 
 Interestingly, this idea is actually the basis for a powerful technique for rapid prototyping new products.
