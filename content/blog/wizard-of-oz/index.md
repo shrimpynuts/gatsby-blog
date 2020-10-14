@@ -1,6 +1,7 @@
 ---
 title: The Wizard of Oz Technique
 date: "2020-10-05"
+description: L.F. Baum's Wizard of Oz has something to teach us about rapid prototyping.
 ---
 
 In L.F. Baum's Wizard of Oz, the Wizard fools everyone by creating a vision of himself to look powerful. He does this by using a set of controls while he hides behind a curtain concealing the reality.
