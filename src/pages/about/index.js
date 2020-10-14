@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 import pic from "../../assets/me.jpg"
+import resume from "../../assets/jonathan_cai_resume.pdf"
 
 const About = ({ location }) => {
 
@@ -22,7 +23,8 @@ const About = ({ location }) => {
                     <a target="_blank" rel="noopener noreferrer" href={"https://twitter.com/jonathanmcai"}>twitter</a> &nbsp;
                     <a target="_blank" rel="noopener noreferrer" href={"https://github.com/jonathancai11"}>github</a> &nbsp;
                     <a target="_blank" rel="noopener noreferrer" href={"https://www.linkedin.com/in/jonathan-cai/"}>linkedin</a> &nbsp;
-                    <a target="_blank" rel="noopener noreferrer" href={"https://jonathancai.substack.com/"}>substack</a>
+                    <a target="_blank" rel="noopener noreferrer" href={"https://jonathancai.substack.com/"}>substack</a> &nbsp;
+                    <a target="_blank" rel="noopener noreferrer" href={resume}>resume</a>
                 </div>
             </div>
 
