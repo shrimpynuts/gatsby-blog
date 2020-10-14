@@ -17,7 +17,7 @@ const AboutPage = ({ location }) => {
             <div style={{float: "right", display: "inline-block"}}>
                 <p>Hey, I'm Jonathan.</p>
                 <p>I'm going to be writing about anything that interests me. Not for any particular audience, moreso treating this like a journal.</p>
-                <p>I'm from California, I study computer science at Rice University, graduating in Spring 2021.</p>
+                <p>I'm from California, I study computer science at Rice University down in Houston, graduating in Spring 2021.</p>
                 {/* <p>If you're a recruiter, or just interested in that kind of thing, here's <b><a target="_blank" rel="noopener noreferrer" href={pdf}>my resume</a></b>
                 (no guarantees on how up to date it is).</p> */}
                 <a href={"mailto:caimjonathan@gmail.com"}>email</a><br />
