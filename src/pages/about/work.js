@@ -9,6 +9,7 @@ const Work = ({ data, location }) => {
     return (
         <Layout location={location} title={"Work"}>
             <SEO title="Work" />
+            <h1>Work</h1>
             <div className="section-content">
                 <p>
                     So far, I've worked as a <b>software engineer</b> during 3 internships.

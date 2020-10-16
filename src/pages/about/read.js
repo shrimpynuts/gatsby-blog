@@ -10,6 +10,7 @@ const Read = ({ data, location }) => {
     return (
         <Layout location={location} title={"Read"}>
             <SEO title="Read" />
+            <h1>Read</h1>
             <div className="section-content">
                 <p>I'm going to try to maintain a list of <b>books I'd like to read at some point</b>
                 (inspired by <a target="_blank" rel="noopener noreferrer" href="https://patrickcollison.com/bookshelf">

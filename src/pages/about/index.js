@@ -14,9 +14,11 @@ const About = ({ location }) => {
             <div>
                 <img src={pic} alt="Me" style={{ float: "left", height: 300, width: "unset", paddingRight: 20 }} />
                 <div>
-                    <p>Hey, I'm Jonathan.</p>
-                    <p>I'm going to be writing about anything that interests me. This blog is not meant for any particular audience, moreso treating this like a journal.</p>
-                    <p>I'm from California, I study computer science at Rice University down in Houston, graduating in Spring 2021.</p>
+                    <p>Hey, I'm Jonathan!</p>
+                    <p>Just writing about anything that interests me.
+                        I'd like to call this a blog because that's all the rave, but it's really more like a journal.</p>
+                    <p>If I eventually find a niche, then I'll tailor this content much more. But for now, it'll look like random rambling.</p>
+                    <p>I'm from California, I study computer science at Rice University in Houston, graduating in 2021.</p>
                     {/* <p>If you're a recruiter, or just interested in that kind of thing, here's <b><a target="_blank" rel="noopener noreferrer" href={pdf}>my resume</a></b>
                 (no guarantees on how up to date it is).</p> */}
                     <a href={"mailto:caimjonathan@gmail.com"}>email</a> &nbsp;

@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
         <Link to="/">Jonathan Cai</Link>
       </h6>
       <h6 className="main-heading" id="about" style={{ float: "right" }}>
-        <Link to="/about">About</Link>
+        <Link to="/about">?</Link>
       </h6>
     </div>);
 
