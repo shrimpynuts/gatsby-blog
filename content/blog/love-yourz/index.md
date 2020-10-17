@@ -1,6 +1,7 @@
 ---
 title: Love Yourz
 date: "2020-10-16"
+description: "Cole world."
 ---
 
 <blockquote class='rg_standalone_container' data-src='[//genius.com/annotations/4476922/standalone_embed](notion://genius.com/annotations/4476922/standalone_embed)'><a href='[https://genius.com/4476922/J-cole-love-yourz/No-such-thing-as-a-life-thats-better-than-yours-no-such-thing-as-a-life-thats-better-than-yours-love-yours-no-such-thing-as-a-life-thats-better-than-yours-no-such-thing-no-such-thing](https://genius.com/4476922/J-cole-love-yourz/No-such-thing-as-a-life-thats-better-than-yours-no-such-thing-as-a-life-thats-better-than-yours-love-yours-no-such-thing-as-a-life-thats-better-than-yours-no-such-thing-no-such-thing)'>No such thing as a life that's better than yours<br> No such thing as a life that's better than yours (Love yours)<br> No such thing as a life that's better than yours<br> No such thing, no such thing</a><br><a href='[https://genius.com/J-cole-love-yourz-lyrics](https://genius.com/J-cole-love-yourz-lyrics)'></blockquote><script async crossorigin src='[//genius.com/annotations/load_standalone_embeds.js](notion://genius.com/annotations/load_standalone_embeds.js)'></script>
