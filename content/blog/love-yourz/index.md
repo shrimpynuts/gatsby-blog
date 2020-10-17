@@ -13,3 +13,5 @@ date: "2020-10-16"
 Always gon' be a ***** that's badder out there on the tours <br> But you ain&#39;t never gon&#39; be happy &#39;til you love yours</a><br></blockquote><script async crossorigin src='//genius.com/annotations/load_standalone_embeds.js'></script>
 
 <a href='https://genius.com/J-cole-love-yourz-lyrics'>J. Cole – Love Yourz</a>
+
+Cole world.
