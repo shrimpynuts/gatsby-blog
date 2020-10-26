@@ -1,5 +1,5 @@
 ---
-title: My favorite side project also took the shortest amount of time
+title: My favorite project also took the shortest amount of time
 date: "2020-10-26"
 description: "What I learned after whattime.today lucked onto the HN front page, received ~6,000 hits with ~300 users."
 ---
