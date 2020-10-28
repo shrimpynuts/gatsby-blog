@@ -10,7 +10,7 @@ I was inspired by [this Reddit post](https://www.reddit.com/r/cscareerquestions/
 
 So as I graduate next semester, I thought it would be cool to look back on the data behind the past few years of painful job searching.
 
-This post might come off as douchebaggery. I get that. I understand talking about this contributes to a sort of toxic environment in an already ultra-competitive group of college students.
+This post might come off as douchebaggery. I get that. I understand talking about this contributes to the toxic environment in an already ultra-competitive group of college students.
 
 But I also think more people should be open about their process. I think there's value in reducing the stigma behind talking about job opportunities, especially if it's for advice that's informative and actionable.
 
@@ -72,7 +72,7 @@ I think it was a few things.
 
 1. **I wanted to impress my peers.**
 
-    *Seeing my peers get jobs I wanted made me sad. I've got a big fat ego. Many nights I would literally cry over this. It's so toxic that their success meant my failure. Truth is, everyone is so worried about themselves that they don't have time to judge others. I needed to [stop giving a fuck](https://jonathancai.com/how-to-not-give-a-fuck/) about what my friends thought of me.*
+    *Seeing my friends get jobs I wanted made me sad. I've got a big fat ego. Many nights I would literally cry over this. It's so toxic that their success meant my failure. Truth is, everyone is so worried about themselves that they don't have time to judge others. I needed to [stop giving a fuck](https://jonathancai.com/how-to-not-give-a-fuck/) about what my friends thought of me.*
 
 2. **I wanted to impress my parents.** 
 
