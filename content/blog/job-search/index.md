@@ -98,8 +98,8 @@ But at the same time I believe I could've reached the same outcomes without sacr
 
 2. **If you're having problems, diagnose well.**
 
-    If you're struggling to get interviews, it's likely that your resume could use some more work. If you're struggling to pass coding interviews, it's likely that you could do some more LeetCode. If you're struggling to xx then x..
-
+    If you're struggling to get interviews, it's likely that your resume could use some more work. If you're struggling to pass coding interviews, it's likely that you could do some more LeetCode. It's easy to jump to false conclusions when you receive many rejections. The worst assumption of all being that you're not a successful human being.
+    
 3. **Use referrals.**
 
     I was too lazy to add this data into the diagrams, but there was a much higher success rate when someone within my network at gave me a referral to the company.
