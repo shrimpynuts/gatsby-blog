@@ -4,7 +4,7 @@ date: "2020-10-28"
 description: "After 200+ rejections, 50+ interviews, and just a few job offers, I painfully regret devoting my life to this crap."
 ---
 
-![./Screen_Shot_2020-10-27_at_12.11.43_PM.png](./Screen_Shot_2020-10-27_at_12.11.43_PM.png)
+![./Screen_Shot_2020-10-27_at_12.11.43_PM.png](./download.png)
 
 I was inspired by [this Reddit post](https://www.reddit.com/r/cscareerquestions/comments/9ose8m/an_internship_search_visualized/) about visualizing the internship search. 
 
