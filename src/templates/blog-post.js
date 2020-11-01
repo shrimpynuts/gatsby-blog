@@ -32,7 +32,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         <hr />
         <footer>
-          <Bio />
+          <p>If you made it this far, I'd love to hear your thoughts at caimjonathan@gmail.com. These emails make my day.</p>
+          <p>
+            And if you enjoy my writing, you can keep up to date by subscribing below. I haven't actually begun using Substack 
+            yet, and I have enough trouble writing consistently, so spam is the last thing you have to worry about from me.
+          </p>
+          <iframe class="subscribe" src="https://jonathancai.substack.com/embed" width="100%" style={{ "border": "1px solid #EEE", "background": "white" }} frameborder="0" scrolling="no"></iframe>
+
         </footer>
       </article>
       <nav className="blog-post-nav">
