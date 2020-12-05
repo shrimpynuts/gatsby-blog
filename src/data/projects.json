@@ -2,7 +2,7 @@
   {
     "name": "Launch the Damn MVP",
     "date": "Sept '20",
-    "description": "Curating a list of the MVP's for companies like Twitter, Google, Facebook, Uber, etc.",
+    "description": "Curating a list of the MVP's for products like Twitter, Google, Facebook, Uber, etc.",
     "link": "https://www.launchthedamnmvp.com/",
     "link_display": "launchthedamnmvp.com",
     "status": "Launched",
@@ -36,7 +36,7 @@
     "description": "Promo deals for the hacker community.",
     "link": "https://www.hackerpromos.com/",
     "link_display": "hackerpromos.com",
-    "status": "Launched",
+    "status": "Abandoned",
     "stack": "Pory.io, Airtable",
     "dev_time": "8 hrs",
     "lessons": "This project has made me hop on the #nocode bandwagon. Perfect for validating an idea. I need to stop diving right into building, and validate ideas first.",
@@ -54,7 +54,7 @@
     "status": "Beta-launch",
     "stack": "React, Redux, Express, GraphQL, MongoDB, GCP, Cloudinary API, Rainforest API, Auth0, Node",
     "dev_time": "2 weeks",
-    "lessons": "You gotta really give a crap about whatever you work on (especially when a salary is not on the line). Otherwise, you will not care enough to work on it when things get inevitably hard.",
+    "lessons": "You gotta really give a crap about whatever you work on (especially when a salary is not on the line). Otherwise, you will not care enough to work on it when things get inevitably hard. UPDATE: Got featured in a press article!!! https://theamericangenius.com/editorials/pinterest-for-wfh-desk-setups/",
     "organization": "",
     "results": "~10k visits after launch, 15 posts of UGC, 50+ users registered"
   },
