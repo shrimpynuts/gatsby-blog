@@ -1,5 +1,18 @@
 [
   {
+    "name": "Magic",
+    "date": "Nov '20",
+    "description": "A simple Google Analytics dashboard.",
+    "link": "http://magic.jonathancai.com/",
+    "link_display": "magic.jonathancai.com",
+    "status": "Launched, In Development",
+    "stack": "React, Next.js, TailwindCSS, Vercel",
+    "dev_time": "20 hrs",
+    "lessons": "TBD.",
+    "organization": "",
+    "results": "TBD"
+  },
+  {
     "name": "Launch the Damn MVP",
     "date": "Sept '20",
     "description": "Curating a list of the MVP's for products like Twitter, Google, Facebook, Uber, etc.",
