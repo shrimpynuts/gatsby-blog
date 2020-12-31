@@ -12,7 +12,7 @@ const About = ({ location }) => {
         <Layout location={location} title={"About"}>
             <SEO title="About" />
             <div>
-                <img src={pic} alt="Me" style={{ float: "left", height: 300, width: "unset", paddingRight: 20 }} />
+                <img src={pic} alt="Me" style={{ float: "left", height: 200, width: "unset", paddingRight: 20 }} />
                 <div>
                     <p>Hey, I'm Jonathan!</p>
                     <p>Just writing about anything that interests me.
@@ -33,9 +33,9 @@ const About = ({ location }) => {
             <br/>
 
             <h6 className="main-heading">
-                <Link to="/about/projects">Projects</Link> &nbsp;
-                <Link to="/about/work">Work</Link> &nbsp;
-                <Link to="/about/read">Read</Link>
+                <Link to="/about/projects">/about/projects</Link> <br/>
+                <Link to="/about/work">/about/work</Link> <br/>
+                <Link to="/about/read">/about/read</Link>
             </h6>
         </Layout>
     )

@@ -8,10 +8,13 @@ const Layout = ({ location, title, children }) => {
   let header = (
     <div>
       <h6 className="main-heading" style={{ float: "left" }}>
-        <Link to="/">Jonathan Cai</Link>
+        <Link to="/">/</Link>
       </h6>
       <h6 className="main-heading" id="about" style={{ float: "right" }}>
-        <Link to="/about">?</Link>
+        <Link to="/about">/about</Link>
+      </h6>
+      <h6 className="main-heading" id="archive" style={{ float: "right" }}>
+        <Link to="/archive">/archive</Link>
       </h6>
     </div>);
 
