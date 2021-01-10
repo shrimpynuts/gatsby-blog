@@ -1,9 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../../components/layout"
-import SEO from "../../components/seo"
-import projectData from '../../data/projects.json';
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import projectData from '../data/projects.json';
 
 
 const customColors = {
@@ -66,8 +66,6 @@ const Projects = ({ data, location }) => {
     var num = tools[i];
     toolCounts[num] = toolCounts[num] ? toolCounts[num] + 1 : 1;
   }
-
-  console.log(toolCounts);
 
   return (
     <Layout location={location} title={"Projects"}>

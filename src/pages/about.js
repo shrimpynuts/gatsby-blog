@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Layout from "../../components/layout"
-import SEO from "../../components/seo"
-import pic from "../../assets/me.jpg"
-import resume from "../../assets/jonathan_cai_resume.pdf"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import pic from "../assets/me.jpg"
+import resume from "../assets/jonathan_cai_resume.pdf"
 
 const About = ({ location }) => {
 
@@ -12,7 +12,10 @@ const About = ({ location }) => {
         <Layout location={location} title={"About"}>
             <SEO title="About" />
             <div>
+                <div>
+
                 <img src={pic} alt="Me" style={{ float: "left", height: 200, width: "unset", paddingRight: 20 }} />
+                </div>
                 <div>
                     <p>Hey, I'm Jonathan!</p>
                     <p>Just writing about anything that interests me.
@@ -32,11 +35,11 @@ const About = ({ location }) => {
 
             <br/>
 
-            <h6 className="main-heading">
-                <Link to="/about/projects">/about/projects</Link> <br/>
-                <Link to="/about/work">/about/work</Link> <br/>
-                <Link to="/about/read">/about/read</Link>
-            </h6>
+            {/* <h6 className="main-heading">
+                <Link to="/projects">/projects</Link> <br/>
+                <Link to="/work">/work</Link> <br/>
+                <Link to="/read">/read</Link>
+            </h6> */}
         </Layout>
     )
 }

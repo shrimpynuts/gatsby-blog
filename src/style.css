@@ -261,9 +261,9 @@ a:focus {
   padding: 0 8px 0;
 }
 
-/* .main-heading#about {
+.main-heading#page {
   font-size: var(--fontSize-2);
-} */
+}
 
 .post-list-item {
   margin-bottom: var(--spacing-8);

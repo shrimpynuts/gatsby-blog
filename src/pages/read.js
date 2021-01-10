@@ -1,9 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../../components/layout"
-import SEO from "../../components/seo"
-import read from '../../data/read.json';
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import read from '../data/read.json';
 
 
 const Read = ({ data, location }) => {
