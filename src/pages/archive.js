@@ -45,7 +45,7 @@ const Archive = ({ data, location }) => {
                   >
                     <header>
                       <p>
-                        <small style={{ width: "300px" }}>{post.frontmatter.date}</small> &nbsp;
+                        <span style={{ width: "300px" }}>{post.frontmatter.date}</span> &nbsp;
                         <Link to={post.fields.slug} itemProp="url" >
                           <span itemProp="headline" style={{float: "right"}}>{title}</span>
                         </Link>
