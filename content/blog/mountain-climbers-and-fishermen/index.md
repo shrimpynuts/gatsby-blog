@@ -2,6 +2,7 @@
 title: Mountain Climbers and Fishermen
 date: "2020-11-04"
 description: What Robert Pirsig's Zen and the Art of Motorcycle Maintenance has to say about living a happy life. Everyone's climbing a mountain, but there are good ways to climb and bad ways to climb.
+home: true
 ---
 
 ![./2dfi31.jpg](./2dfi31.jpg)

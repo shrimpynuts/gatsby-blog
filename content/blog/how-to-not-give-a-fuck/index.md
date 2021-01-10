@@ -1,6 +1,7 @@
 ---
 title: How to not give a fuck
 date: "2020-08-26"
+home: true
 ---
 
 ![](https://artsy-media-uploads.s3.amazonaws.com/aP-WQsh26lYTb3VGLim94g%2FWanderer+thumb+800.jpg)

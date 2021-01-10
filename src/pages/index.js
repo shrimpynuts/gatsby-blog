@@ -14,7 +14,8 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="Jonathan Cai" absolute />
       <Bio />
       <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
+        {posts.filter(post => post.frontmatter.home).map(post => {
+
           const title = post.frontmatter.title || post.fields.slug
           let { readingTime } = post.fields;
 
@@ -73,6 +74,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          home
         }
       }
     }

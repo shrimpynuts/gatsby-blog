@@ -1,6 +1,7 @@
 ---
 title: Feeling lost
 date: "2020-08-20"
+home: true
 ---
 
 ![](https://img.culturacolectiva.com/cdn-cgi/image/f=auto,w=1600,q=80,fit=contain/content_image/2019/1/24/1548371349575-sad-paintings-show-living-with-depression.jpeg)

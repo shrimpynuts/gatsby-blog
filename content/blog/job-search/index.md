@@ -1,7 +1,8 @@
 ---
 title: 4 Years of Job Search in Numbers
 date: "2020-10-28"
-description: "200+ rejections, 50+ interviews, and just a few job offers. What a waste of time. What a waste of life."
+description: "200+ rejections, 50+ interviews, and just a few job offers. Some things are just a waste of time."
+home: true
 ---
 
 ![./Screen_Shot_2020-10-27_at_12.11.43_PM.png](./download.png)
