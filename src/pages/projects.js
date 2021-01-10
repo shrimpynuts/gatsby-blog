@@ -81,7 +81,7 @@ const Projects = ({ data, location }) => {
             <th>Date</th>
             <th>Description</th>
             <th>Status</th>
-            <th>Status</th>
+            <th>Link</th>
             {/* <th>Results</th> */}
           </tr>
           {projectData.map((project, i) => {
