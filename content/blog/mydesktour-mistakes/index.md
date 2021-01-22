@@ -2,6 +2,7 @@
 title: Mistakes building My Desk Tour
 date: "2020-09-19"
 description: "Why mydesktour.com was a dumb idea and how you can learn from my mistakes."
+home: true
 ---
 
 ![](https://i.imgur.com/CPmqvEe.png)
