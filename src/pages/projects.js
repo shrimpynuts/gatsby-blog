@@ -78,9 +78,9 @@ const Projects = ({ data, location }) => {
           <tr>
             <th></th>
             <th>Name</th>
-            <th>Date</th>
-            <th>Description</th>
-            <th>Status</th>
+            <th className="hidden-column-mobile">Date</th>
+            <th className="hidden-column-mobile">Description</th>
+            <th className="hidden-column-mobile">Status</th>
             <th>Link</th>
             {/* <th>Results</th> */}
           </tr>
@@ -91,9 +91,9 @@ const Projects = ({ data, location }) => {
                   <img src={project.icon} style={{ width: "30px", marginRight: "10px" }} />
                 </td>
                 <td>{project.name}</td>
-                <td>{project.date}</td>
-                <td>{project.description}</td>
-                <td>{project.status}</td>
+                <td className="hidden-column-mobile">{project.date}</td>
+                <td className="hidden-column-mobile">{project.description}</td>
+                <td className="hidden-column-mobile">{project.status}</td>
                 <td>
                   <a href={project.link} target="_blank">{project.link_display}</a>
                 </td>
