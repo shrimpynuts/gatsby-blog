@@ -1,4 +1,19 @@
-[{
+[
+  {
+    "name": "Alias",
+    "date": "Jan 2020",
+    "description": "Content aggregator for creators.",
+    "link": "http://alias.co/",
+    "link_display": "alias.co",
+    "icon": "https://i.imgur.com/jnmTyMF.png",
+    "status": "In Development",
+    "stack": "React, Next.js, Vercel, PostgreSQL, GraphQL, Hasura",
+    "dev_time": "100 hrs",
+    "lessons": "TBD.",
+    "organization": "",
+    "results": "TBD"
+  },
+  {
     "name": "Chords",
     "date": "Dec 2020",
     "description": "Musical chord progression generator.",
