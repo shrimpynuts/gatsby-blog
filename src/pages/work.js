@@ -11,9 +11,6 @@ const Work = ({ data, location }) => {
             <SEO title="Work" />
             <h1>Work</h1>
             <div className="section-content">
-                <p>
-                    So far, I've worked as a <b>software engineer</b> during 3 internships.
-            </p>
                 <ul>
                     <li>
                         <p>
@@ -30,9 +27,7 @@ const Work = ({ data, location }) => {
             </p>
                     </li>
 
-
                     <li>
-
                         <p>
                             At <b><a href="https://www.sihuatech.com/" rel="noopener noreferrer" target="_blank">Sihua Technologies</a></b>,
                 I improved the deployment time for their <b>CI/CD</b> pipeline by 70%, but the tool was completely unmanagable, the code was absolute crap, and not used in production.
@@ -40,9 +35,7 @@ const Work = ({ data, location }) => {
                     </li>
                 </ul>
 
-                <p style={{ paddingLeft: 0 }}>I've also been involved in a few <b>extracurriculars</b>.</p>
                 <ul>
-
                     <li>
                         <p>
                             I also run an app development club at Rice called <b><a target="_blank" rel="noopener noreferrer" href="http://riceapps.org/">RiceApps</a></b>.
