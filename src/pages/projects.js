@@ -88,10 +88,10 @@ const Projects = ({ data, location }) => {
             return (
               <tr>
                 <td>
-                  <img src={project.icon} style={{ width: "30px", marginRight: "10px" }} />
+                  <img src={project.icon || "https://i.imgur.com/s7ajAQw.png"} style={{ width: "30px", marginRight: "10px" }} />
                 </td>
                 <td>{project.name}</td>
-                <td className="hidden-column-mobile">{project.date}</td>
+                <td className="hidden-column-mobile">{`${project.month} ${project.year}`}</td>
                 <td className="hidden-column-mobile">{project.description}</td>
                 <td className="hidden-column-mobile">{project.status}</td>
                 <td>
