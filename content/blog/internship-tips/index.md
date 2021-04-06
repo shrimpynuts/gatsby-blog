@@ -1,5 +1,5 @@
 ---
-title: Unintuitive tips for Engineering Internships
+title: Unintuitive Tips for Engineering Internships
 date: "2021-04-06"
 description: "There's a lot of advice on how to land an internship, but not enough advice on how to perform well on the job itself!"
 home: true
