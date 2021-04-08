@@ -1,7 +1,7 @@
 ---
 title: Unintuitive Tips for Engineering Internships
 date: "2021-04-06"
-description: "There's a lot of advice on how to land an internship, but not enough advice on how to perform well on the job itself!"
+description: "There's a lot of advice on how to land an internship, but not enough advice on how to perform well on the job itself."
 home: true
 ---
 
@@ -75,7 +75,11 @@ Whatever... Just read on if you like.
 
     Consider the following possibilities: 
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c324eed9-4f55-4c82-a244-97a2223ba709/Screen_Shot_2020-09-29_at_10.58.40_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c324eed9-4f55-4c82-a244-97a2223ba709/Screen_Shot_2020-09-29_at_10.58.40_PM.png)
+    <!-- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c324eed9-4f55-4c82-a244-97a2223ba709/Screen_Shot_2020-09-29_at_10.58.40_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c324eed9-4f55-4c82-a244-97a2223ba709/Screen_Shot_2020-09-29_at_10.58.40_PM.png) -->
+
+    ![./Screen_Shot_2020-10-27_at_12.11.43_PM.png](./download.png)
+
+    I don't think this diagram perfectly encapsulates this idea, but I think you get the point...
 
     Basically, the downside of not bringing up potential problems with your work is much worse than the downside of bringing up a problem that they don't notice.
 
