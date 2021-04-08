@@ -1,6 +1,7 @@
 ---
 title: The Wizard of Oz Technique
 date: "2020-10-05"
+home: true
 description: L.F. Baum's Wizard of Oz has something to teach us about rapid prototyping.
 ---
 

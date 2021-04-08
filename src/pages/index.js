@@ -47,6 +47,8 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+
+      <p><i>The rest of my blog posts live in <Link to="/archive">/archive</Link></i></p>
     </Layout>
   )
 }
