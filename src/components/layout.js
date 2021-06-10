@@ -14,6 +14,9 @@ const Layout = ({ location, title, children }) => {
         <Link to="/archive">/archive</Link>
       </h6>
       <h6 className="main-heading" id="page" style={{ float: "right" }}>
+        <Link to="/beats">/beats</Link>
+      </h6>
+      <h6 className="main-heading" id="page" style={{ float: "right" }}>
         <Link to="/work">/work</Link>
       </h6>
       <h6 className="main-heading" id="page" style={{ float: "right" }}>
@@ -22,7 +25,8 @@ const Layout = ({ location, title, children }) => {
       <h6 className="main-heading" id="page" style={{ float: "right" }}>
         <Link to="/about">/about</Link>
       </h6>
-    </div>);
+    </div>
+  )
 
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
