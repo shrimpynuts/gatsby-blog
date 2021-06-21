@@ -165,6 +165,19 @@
     "results": "6k+ visits after launch, ~60 monthly visits, ~80 Google Calendar users."
   },
   {
+    "name": "RiceApps",
+    "date": "Aug 2018",
+    "month": "Aug",
+    "year": "'18",
+    "icon": "https://i.imgur.com/mPpmDO2.png",
+    "description": "Student run software development club at Rice.",
+    "link": "https://riceapps.org/",
+    "link_display": "riceapps.org",
+    "status": "Launched",
+    "stack": "React, Node",
+    "organization": "Rice"
+  },
+  {
     "name": "Artificial Art",
     "date": "Dec 2019",
     "month": "Dec",
