@@ -1,5 +1,5 @@
 ---
-title: Five Sentiment Analysis Techniques Performed on News Articles
+title: Experimentation With Five Sentiment Analysis Techniques
 date: "2019-06-22"
 home: true
 description: "Naive attempt to achieve traditional stock market alpha from sentiment analysis performed on news articles, using techniques including a TensorFlow neural net, a custom subjectivity lexicon, and NLTK."
