@@ -7,6 +7,8 @@ import ReactSoundCloud from "react-soundcloud-embedded"
 const Beats = ({ location }) => {
   const beats = [
     "https://soundcloud.com/jonathancai/xbox-controller-type-beat",
+    "https://soundcloud.com/jonathancai/its-bed-time-type-beat",
+    "https://soundcloud.com/jonathancai/minecraft-at-3am-type-beat",
     "https://soundcloud.com/jonathancai/scratching-your-toes",
     "https://soundcloud.com/jonathancai/similar-girls-type-beat",
     "https://soundcloud.com/jonathancai/sewer-water-type-beat",
