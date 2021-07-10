@@ -11,7 +11,7 @@ const jobs = [
     location: "San Francisco, CA",
     logo: "https://i.imgur.com/cVCSKPw.png",
     role: "Founding Engineer",
-    time: "June - August 2020",
+    time: "January 2021 - ?",
     description:
       "I re-architected the codebase, and was the sole developer on major product features. Recruited and managed 2 engineers.",
   },
