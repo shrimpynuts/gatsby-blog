@@ -2,6 +2,7 @@
 title: We should be working on this, now
 date: "2020-11-04"
 description: Thoughts on misinformation, probably the largest (and most unprecedented) issue we're facing right now.
+home: true
 ---
 
 Last year I took a course at Rice called [Ethics and Accountability in Computer Science](https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=COURSE&p_term=202010&p_crn=13832).

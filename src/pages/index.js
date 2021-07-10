@@ -13,42 +13,51 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Jonathan Cai" absolute />
       <Bio />
+      <p>
+        <i>
+          These are my favorite posts. The rest of them live in{" "}
+          <Link to="/archive">/archive</Link>
+        </i>
+      </p>
+
       <ol style={{ listStyle: `none` }}>
-        {posts.filter(post => post.frontmatter.home).map(post => {
+        {posts
+          .filter(post => post.frontmatter.home)
+          .map(post => {
+            const title = post.frontmatter.title || post.fields.slug
+            let { readingTime } = post.fields
 
-          const title = post.frontmatter.title || post.fields.slug
-          let { readingTime } = post.fields;
-
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date} | {readingTime.words} words | {readingTime.text}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
-            </li>
-          )
-        })}
+            return (
+              <li key={post.fields.slug}>
+                <article
+                  className="post-list-item"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <header>
+                    <h2>
+                      <Link to={post.fields.slug} itemProp="url">
+                        <span itemProp="headline">{title}</span>
+                      </Link>
+                    </h2>
+                    <small>
+                      {post.frontmatter.date} | {readingTime.words} words |{" "}
+                      {readingTime.text}
+                    </small>
+                  </header>
+                  <section>
+                    <p
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </section>
+                </article>
+              </li>
+            )
+          })}
       </ol>
-
-      <p><i>The rest of my blog posts live in <Link to="/archive">/archive</Link></i></p>
     </Layout>
   )
 }
