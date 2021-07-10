@@ -11,12 +11,14 @@ const Work = ({ data, location }) => {
       <h1>Work</h1>
       <div className="section-content">
         <p>
-          At Facebook, I worked on their Network Infra team, automating the
-          deployment of network configs.{" "}
+          At Facebook, I improved the efficiency of a few of their backend
+          network services by a smidget, which turns out to scale quite nicely
+          when multiplied across billions of users.
         </p>
 
         <p>
-          At JPMorgan, I worked on data modeling, and data engineering at scale.
+          At JPMorgan, I worked on data modeling to help them finance loans and
+          bonds. The business-ey stuff that will dry your eyes out.
         </p>
 
         <p>
@@ -28,7 +30,7 @@ const Work = ({ data, location }) => {
           >
             Sihua Technologies
           </a>
-          , I improved the deployment time for their CI/CD pipeline
+          , I improved their server deployment times signficantly (~70%).
         </p>
 
         <p>
@@ -40,7 +42,7 @@ const Work = ({ data, location }) => {
           >
             RiceApps
           </a>
-          . We're about 50 members strong now, and we're building some pretty{" "}
+          . I grew it to 50 members, and we're building some pretty{" "}
           <a
             target="_blank"
             rel="noopener noreferrer"
