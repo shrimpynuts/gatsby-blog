@@ -17,9 +17,9 @@ const Projects = ({ data: _, location }) => {
             <tr>
               <th> </th>
               <th>Name</th>
-              <th className="hidden-column-mobile">Date</th>
+              {/* <th className="hidden-column-mobile">Year</th> */}
               <th className="hidden-column-mobile">Description</th>
-              <th className="hidden-column-mobile">Status</th>
+              {/* <th className="hidden-column-mobile">Status</th> */}
               <th>Link</th>
               {/* <th>Results</th> */}
             </tr>
@@ -36,11 +36,11 @@ const Projects = ({ data: _, location }) => {
                     />
                   </td>
                   <td>{project.name}</td>
-                  <td className="hidden-column-mobile">{`${project.month} ${project.year}`}</td>
+                  {/* <td className="hidden-column-mobile">{`20${project.year}`}</td> */}
                   <td className="hidden-column-mobile">
                     {project.description}
                   </td>
-                  <td className="hidden-column-mobile">{project.status}</td>
+                  {/* <td className="hidden-column-mobile">{project.status}</td> */}
                   <td>
                     <a href={project.link} target="_blank" rel="noreferrer">
                       {project.link_display}

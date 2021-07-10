@@ -6,9 +6,9 @@ import ReactSoundCloud from "react-soundcloud-embedded"
 
 const Beats = ({ location }) => {
   const beats = [
+    "https://soundcloud.com/jonathancai/gud4u",
     "https://soundcloud.com/jonathancai/xbox-controller-type-beat",
     "https://soundcloud.com/jonathancai/its-bed-time-type-beat",
-    "https://soundcloud.com/jonathancai/gud4u",
     "https://soundcloud.com/jonathancai/ticklemyarmpits",
     "https://soundcloud.com/jonathancai/minecraft-at-3am-type-beat",
     "https://soundcloud.com/jonathancai/scratching-your-toes",
@@ -24,10 +24,12 @@ const Beats = ({ location }) => {
         <div>
           <p>
             {" "}
-            In my free time, I make shitty beats on FL Studio and post a few on{" "}
+            In my free time, I like producing shitty beats on FL Studio and
+            posting a few on{" "}
             <a href="https://soundcloud.com/jonathancai" target="_blank">
               soundcloud
             </a>
+            .
           </p>
         </div>
         <div>
