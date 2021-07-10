@@ -91,9 +91,9 @@ const Work = ({ data, location }) => {
       <SEO title="Work" />
       <h1>Work</h1>
       <div className="section-content">
-        {jobs.map(job => {
+        {jobs.map((job, i) => {
           return (
-            <div className="job">
+            <div className="job" key={i}>
               <div className="job-header">
                 <a href={job.link} target="_blank">
                   <img
@@ -103,9 +103,9 @@ const Work = ({ data, location }) => {
                   />
                 </a>
                 <div className="job-details">
-                  <b className="job-title">{job.role} </b> @{" "}
+                  <b>{job.role} </b> @{" "}
                   <a href={job.link} target="_blank">
-                    <b className="job-title">{job.company}</b>
+                    <b>{job.company}</b>
                   </a>
                   <br />
                   <small>
