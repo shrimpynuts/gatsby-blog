@@ -33,7 +33,7 @@ const Beats = ({ location }) => {
         <div>
           {beats.map((beat, i) => (
             <div key={i}>
-              <ReactSoundCloud url={beat} height={"200px"} />
+              <ReactSoundCloud url={beat} height={"140px"} />
             </div>
           ))}
         </div>
