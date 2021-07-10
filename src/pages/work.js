@@ -22,7 +22,7 @@ const jobs = [
     logo:
       "https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512",
     role: "Software Engineer Intern",
-    time: "June - August 2020",
+    time: "June 2020 - August 2020",
     description:
       "I improved the efficiency of a few of their backend  \
     network services by a smidget, which turns out to scale quite nicely \
@@ -44,7 +44,7 @@ const jobs = [
     location: "Houston, TX",
     logo: "https://g.foolcdn.com/art/companylogos/square/jpm.png",
     role: "Software Engineer Intern",
-    time: "June - August 2019",
+    time: "June 2019 - August 2019",
     description:
       "I built data modeling tools to help them finance loans and \
       bonds. Business-ey stuff that will dry your eyes out.",
@@ -56,7 +56,7 @@ const jobs = [
     logo:
       "https://media-exp3.licdn.com/dms/image/C510BAQF-noYtnx0hog/company-logo_200_200/0/1519872962884?e=2159024400&v=beta&t=1rCyf2r9_ff5NK87Ziu_KJIN0CuzS-OK6N0G31SDDEU",
     role: "Software Engineer Intern",
-    time: "June - August 2018",
+    time: "June 2018 - August 2018",
     description:
       "I improved their server deployment times signficantly (~70%).",
   },
