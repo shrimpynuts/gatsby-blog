@@ -72,6 +72,14 @@ const About = ({ location }) => {
             substack
           </a>{" "}
           &nbsp;
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href={"https://help.instagram.com/370452623149242"}
+          >
+            instagram
+          </a>{" "}
+          &nbsp;
           <a target="_blank" rel="noopener noreferrer" href={resume}>
             resume
           </a>
