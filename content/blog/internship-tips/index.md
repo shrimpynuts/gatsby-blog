@@ -5,6 +5,9 @@ description: "There's a lot of advice on how to land an internship, but not enou
 home: true
 ---
 
+![./Screen_Shot_2020-10-27_at_12.11.43_PM.png](./apprentice.jpeg)
+
+
 There's so much pressure for undergrad computer science students to land an internship.
 
 So there's a lot of advice on how to get them.
