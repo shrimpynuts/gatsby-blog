@@ -10,10 +10,9 @@ const jobs = [
     link: "https://www.alias.co/",
     location: "San Francisco, CA",
     logo: "https://i.imgur.com/cVCSKPw.png",
-    role: "Founding Engineer",
+    role: "Co-Founder",
     time: "January 2021 - ?",
-    description:
-      "I re-architected the codebase, and was the sole developer on major product features. Recruited and managed 2 engineers.",
+    description: "",
   },
   {
     company: "Facebook",
